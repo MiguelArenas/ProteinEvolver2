@@ -62,6 +62,7 @@ version. This program is distributed in the hope that it will be useful, but WIT
 
 
 **Credits and Funding**
+
 Miguel Arenas - marenas@uvigo.es
 
 
