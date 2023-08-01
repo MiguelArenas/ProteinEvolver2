@@ -1,5 +1,5 @@
 # ProteinEvolver2
-Simulation of protein evolution forward in time accounting for simultaneous protein fitness
+Modeling protein evolution forward in time accounting for simultaneous protein fitness
 
 **ProteinEvolver2 README**
 2023
@@ -7,7 +7,7 @@ Simulation of protein evolution forward in time accounting for simultaneous prot
 
 **Purpose**
 
-ProteinEvolver simulates protein evolution forward in time under structure-based and empirical substitution models and considering evolutionary histories that can be: (1) obtained from the birth-death population process and based on the protein fitness of every variant at every time, (2) simulated with the coalescent under complex population models (recombination, migration, and demographics) or (3) user-specified as a phylogenetic tree. The file ProteinEvolver2_manual.pdf includes detailed documentation, and the user is strongly advised to read it carefully before using the program.
+ProteinEvolver models protein evolution forward in time under structure-based and empirical substitution models and considering evolutionary histories that can be: (1) obtained from the birth-death population process and based on the protein fitness of every variant at every time, (2) simulated with the coalescent under complex population models (recombination, migration, and demographics) or (3) user-specified as a phylogenetic tree. The file ProteinEvolver2_manual.pdf includes detailed documentation, and the user is strongly advised to read it carefully before using the program.
 
 **Download and Installation**
 
