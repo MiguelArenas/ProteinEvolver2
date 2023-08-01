@@ -66,6 +66,7 @@ version. This program is distributed in the hope that it will be useful, but WIT
 
 Miguel Arenas - marenas@uvigo.es
 
+2023
 
 This work was supported by the Spanish Ministry of Economy and Competitiveness and the Ministry of Science and Innovation through the Grants RYC-2015-18241 and PID2019-107931GA-I00/AEI/10.13039/501100011033
 
